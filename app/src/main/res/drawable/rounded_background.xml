@@ -1,0 +1,6 @@
+<!-- res/drawable/rounded_background.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/hibiscus_on_accent" /> <!-- Light red color -->
+    <corners android:radius="12dp" /> <!-- Adjust the radius as per your need -->
+    <stroke android:width="2dp" android:color="#C30000" /> <!-- Optional: Red border -->
+</shape>

@@ -1,0 +1,11 @@
+<resources>
+    <color name="hibiscus_primary">#E63946</color> <!-- A vibrant hibiscus red -->
+    <color name="hibiscus_primary_dark">#B71C1C</color> <!-- A darker shade for primary -->
+    <color name="hibiscus_accent">#FFB703</color> <!-- A contrasting accent color (tropical yellow) -->
+    <color name="hibiscus_background">#FFEECF</color> <!-- A light, warm background color -->
+    <color name="hibiscus_surface">#FFFFFF</color> <!-- Surface color, usually white -->
+    <color name="hibiscus_on_primary">#FFFFFF</color> <!-- Text/icon color on primary -->
+    <color name="hibiscus_on_accent">#FFFFFF</color> <!-- Text/icon color on accent -->
+    <color name="hibiscus_on_background">#000000</color> <!-- Text color on background -->
+    <color name="hibiscus_on_surface">#000000</color> <!-- Text color on surface -->
+</resources>
